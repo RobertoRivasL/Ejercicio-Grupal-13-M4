@@ -1,5 +1,5 @@
 # Ejercicio-Grupal-13-M4
-Integrantes : Bastian, Ivan, Patricio, Roberto
+ntegrantes: Bastián Mariángel - Roberto Rivas - Patricio Bonnin - Ivan Mieres
 
 Codifica  clases  en  lenguaje  Java  utilizando  colaboración  y  composición  para  dar solución a un problema de baja complejidad
 
